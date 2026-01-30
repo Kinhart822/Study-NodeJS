@@ -143,4 +143,4 @@ Implemented in `route/web.js` using **Multer**.
 
 ---
 
-_Created by the Antigravity Agent for User Learning Reference._
+_Created by Pham Hoang Anh for Self-Learning._
